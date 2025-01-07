@@ -1,0 +1,12 @@
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\controller\ProjectController.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\exception\ResourceNotFoundException.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\GlobalExceptionHandler.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\model\Project.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\model\Task.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\model\TaskStatus.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\model\User.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\ProjectManagementApplication.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\repository\ProjectRepository.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\repository\TaskRepository.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\repository\UserRepository.java
+D:\кпі\іпз\ProjectManagement\src\main\java\com\example\projectmanagement\service\ProjectService.java
